@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xelatnu
+- 👋 Hi, I’m @alex
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project to practice my skills and learn new ones.
 - 📫 How to reach me iexelalitnu@gmail.com
 
 <!---
