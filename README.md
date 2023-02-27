@@ -3,6 +3,7 @@
 </div>
 
 <div id="badges">
+  <h3 align="left">Connect with me:</h3>
   <a href="linkedin.com/in/alexei-untila-2853b563">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **untila.alexei@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/alexei-until-2853b563a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/alexei-until-2853b563a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alexei.untila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alexei.untila" height="30" width="40" /></a>
