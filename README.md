@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alex U</h1>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/alexei-untila-2853b563">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
