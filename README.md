@@ -29,9 +29,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xelatnu&theme=gruvbox_duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xelatnu=true&theme=gruvbox&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xelatnu&theme=gruvbox&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelatnu&show_icons=true&locale=en&layout=compact" alt="xelatnu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelatnu&show_icons=true&locale=en&layout=gruvbox" alt="xelatnu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true&locale=en" alt="xelatnu" /></p>
 
