@@ -31,23 +31,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true&theme=transparent&hide_border=true)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true&theme=transparent&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=xelatnu_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true" />
-</picture>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xelatnu&hide_progress=false&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelatnu&show_icons=true&locale=en&layout=gruvbox" alt="xelatnu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true&locale=en" alt="xelatnu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xelatnu&" alt="xelatnu" /></p>
-
