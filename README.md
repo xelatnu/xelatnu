@@ -3,7 +3,10 @@
 </div>
 
 <div id="badges">
-  <h3 >Connect with me:</h3>
+  <a href="linkedin.com/in/alexei-untila-2853b563">
+    <h3 >Connect with me:</h3>
+  </a>
+  
   <a href="linkedin.com/in/alexei-untila-2853b563">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
