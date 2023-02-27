@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="linkedin.com/in/alexei-untila-2853b563">
-    <p >Connect with me:</p>
+    Connect with me:
   </a>
   
   <a href="linkedin.com/in/alexei-untila-2853b563">
