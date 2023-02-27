@@ -2,8 +2,6 @@
   <img src="https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Alex U</h1>
-
 <div id="badges">
   <a href="linkedin.com/in/alexei-untila-2853b563">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,10 +11,13 @@
   </a>
 </div>
 
+<h1 align="center">Hi 👋, I'm Alex U</h1>
+
+
 <h3 align="center">A passionate frontend developer from Moldova.</h3>
 
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS|React|TS|**
 
 - 👯 I’m looking to collaborate on **interesting projects to improve my skill**
 
