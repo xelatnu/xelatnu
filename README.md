@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-images.zety.com/pages/java_developer_resume_example_2.jpg" />
+  <img src="https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Alex U</h1>
