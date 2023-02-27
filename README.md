@@ -40,8 +40,10 @@
   srcset="https://github-readme-stats.vercel.app/api?username=xelatnu_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=xelatnu&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xelatnu&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelatnu&show_icons=true&locale=en&layout=gruvbox" alt="xelatnu" /></p>
 
